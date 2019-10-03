@@ -1,0 +1,7 @@
+<resources>
+    <string name="title_activity_maps">Map</string>
+    <string name="app_name">Tourmate</string>
+    <string name="nearby_place_api_key">AIzaSyD1jeaLEg44lZDf3m0YRBY8Bwt-OrNCTFY</string>
+    <string name="nearby_atm_place_api_key">AIzaSyAsHXegzn6ruRlQ3Y1Pv7gr-BGkSpP3NjY</string>
+    <string name="nearby_hospital_place_api_key">AIzaSyDidtRrVAghoEo_ZHaeTWtc9Cn9G4o4qGI</string>
+</resources>
